@@ -1,4 +1,5 @@
 # PyAutoCorrect
+[![Build Status](https://travis-ci.org/PandaWhoCodes/pyautocorrect.svg?branch=master)](https://travis-ci.org/PandaWhoCodes/pyautocorrect)
 
 A light weight python module that corrects the spellings using naive bayes:
 
