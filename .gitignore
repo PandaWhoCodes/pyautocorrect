@@ -1,0 +1,8 @@
+venv
+gigalixir-cli
+*.egg-info
+*.pyc
+.cache
+.eggs
+dist/
+build/

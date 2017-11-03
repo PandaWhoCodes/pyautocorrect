@@ -5,6 +5,11 @@ A light weight python module that corrects the spellings using naive bayes:
 ## Installation
 `pip install git+https://github.com/PandaWhoCodes/pyautocorrect`
 
+or
+
+`pip install pyautocorrect`
+
+
 
 ### Usage:
 ```python
